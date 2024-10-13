@@ -9,4 +9,3 @@ langchain_google_genai
 
 
 
-AIzaSyCt_zDyBE06ik_jqTQj8dj4gSanU6VDFJg         API KEY
